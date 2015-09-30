@@ -8,6 +8,7 @@ These are mainly targeted at working in desktop version of: Outlook; iOS mail; a
 Litmus tests:
 
 [Staff newsletter](https://litmus.com/pub/ea0388e/screenshots)
+
 [Student newsletter](https://litmus.com/pub/0ea2e45/screenshots)
 
 
