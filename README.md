@@ -6,8 +6,9 @@ These are based on [Mailchimp's HTML email blueprints](https://github.com/mailch
 These are mainly targeted at working in: 
 * Desktop versions of Outlook
 * iOS mail
+* Android Gmail app
 * outlook.com
-* 
+
 They were used between 2013 - 2015 and should also mostly work in Gmail, though some of the styles might not be exact.
 
 
